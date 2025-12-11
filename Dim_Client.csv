@@ -1,0 +1,6 @@
+"ID_CLIENT","NOM","PRÉNOM","SEXE","TRANCHE_ÂGE","VILLE","TYPE_CLIENT","NB_COMMANDES_MOYEN","PANIER_MOYEN","SATISFACTION_MOYENNE","DATE_INSCRIPTION","DATE_CRÉATION"
+1,"Anis","Martin","H","25-34","Toulouse","Fidèle",24,28.75,4.6,"15-JUN-21","07-DEC-25 12.02.22.279064 AM"
+2,"Lina","Sophie","F","18-24","Lyon","Occasionel",8,22.5,4.3,"20-MAR-22","07-DEC-25 12.02.22.280861 AM"
+3,"Dupont","Jean","H","35-44","Toulouse","Premium",35,42,4.8,"10-JAN-20","07-DEC-25 12.02.22.281767 AM"
+4,"Martin","Claire","F","25-34","Lyon","Standard",12,25,4.5,"05-SEP-21","07-DEC-25 12.02.22.282536 AM"
+5,"Bernard","Pierre","H","45-54","Paris","VIP",48,55,4.9,"14-FEB-19","07-DEC-25 12.02.22.283252 AM"
