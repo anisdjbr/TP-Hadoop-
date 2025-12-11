@@ -1,0 +1,6 @@
+"ID_PLAT","NOM_PLAT","CATÉGORIE","TYPE_ALLERGEN","CALORIES","POPULARITÉ","TEMPS_PRÉPARATION","TAUX_SATISFACTION_PLAT","DESCRIPTION","DATE_CRÉATION"
+1,"Burger Classique","Plat Principal","Gluten",680,"3420",12,4.6,"Burger XXL sauce maison","07-DEC-25 12.02.22.316069 AM"
+2,"Pâtes Carbonara","Plat Principal","Gluten, Œuf",820,"2850",15,4.8,"Recette romaine authentique","07-DEC-25 12.02.22.317680 AM"
+3,"Pizza Margherita","Plat Principal","Gluten",750,"2100",18,4.7,"Mozzarella et tomates fraîches","07-DEC-25 12.02.22.318407 AM"
+4,"Poulet Tikka Masala","Plat Principal","Gluten, Noix",680,"1850",20,4.5,"Sauce épicée traditionnelle","07-DEC-25 12.02.22.319189 AM"
+5,"Salade César","Entrée","Gluten, Œuf",320,"1200",8,4.4,"Romaine, parmesan, croûtons","07-DEC-25 12.02.22.320018 AM"
